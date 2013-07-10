@@ -1,7 +1,8 @@
 # Prosper202_AppFog
-
 Customized version of Prosper202 to run on appfog cloud hosting. You might think you it would work out of box but it doesn't. One of the main issues I saw was that when you are running on cloud hosting the incoming IP address would always be from a load balancer. I've fixed that and a few other issues.
 
+## Current Stauts
+I've ran traffic against the production build for a few months have not noticed any issues. If you do find an issue please report it.
 
 ## Installation Instructions
 1. First you need to have an appfog account and install the appfog command line tools:
@@ -105,3 +106,8 @@ Starting Application 'new_prosper202': OK
 ```
 
 17. Finally, open the url from step 8 in your browser and go through the standard Prosper202 setup. 
+
+## License
+Prosper202 and Tracking202 License
+Attribution-NonCommercial-ShareAlike 3.0 Unported
+http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
