@@ -108,6 +108,8 @@ Starting Application 'new_prosper202': OK
 17. Finally, open the url from step 8 in your browser and go through the standard Prosper202 setup. 
 
 ## License
+```
 Prosper202 and Tracking202 License
 Attribution-NonCommercial-ShareAlike 3.0 Unported
 http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+```
