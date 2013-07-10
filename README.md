@@ -1,10 +1,10 @@
-Prosper202_AppFog
+# Prosper202_AppFog
 
 Customized version of Prosper202 to run on appfog cloud hosting
 
 
-Installation Instructions
-- First you need to have an appfog account and install the appfog command line tools:
+## Installation Instructions
+1. First you need to have an appfog account and install the appfog command line tools:
 ```
 https://docs.appfog.com/getting-started/af-cli
 ```
@@ -101,3 +101,5 @@ Push Status: OK
 Staging Application 'new_prosper202': OK                                        
 Starting Application 'new_prosper202': OK 
 ```
+
+- Finally, open the url in your brower and go through the standard Prosper202 setup. 
