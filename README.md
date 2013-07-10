@@ -1,5 +1,5 @@
 # Prosper202_AppFog
-Customized version of Prosper202 to run on appfog cloud hosting. You might think you it would work out of box but it doesn't. One of the main issues I saw was that when you are running on cloud hosting the incoming IP address would always be from a load balancer. I've fixed that and a few other issues.
+Customized version of Prosper202 to run on appfog PaaS. You might think you it would work out of box but it doesn't. One of the main issues I saw was that when you are running on cloud hosting the incoming IP address would always be from a load balancer. I've fixed that and a few other issues.
 
 ## Current Stauts
 I've ran traffic against the production build for a few months have not noticed any issues. If you do find an issue please report it.
