@@ -18,7 +18,6 @@ git clone git@github.com:spyderman4g63/Prosper202_AppFog.git
 cd Prosper202_AppFog
 ```
 - Push the file to app fog
-
 ```
 af push {your app name}
 ```
