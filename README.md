@@ -4,6 +4,8 @@ Customized version of Prosper202 to run on appfog PaaS. You might think you it w
 ## Current Stauts
 I've ran traffic against the production build for a few months have not noticed any issues. If you do find an issue please report it.
 
+Based on Prosper202 1.7.2
+
 ## Installation Instructions
 1. First you need to have an appfog account and install the appfog command line tools:
 ```
